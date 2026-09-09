@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CC5A32&height=150&section=header&text=PRANAV%20ADITYA%20BODA&fontSize=32&fontColor=FFFFFF&fontAlignY=50&fontfamily=monospace" width="100%"/>
 
-**Backend and distributed systems engineer.** Building event-driven systems on AWS and applied AI tooling.
+**Software Engineer @ Strand** &nbsp;|&nbsp; **Backend & Distributed Systems** &nbsp;|&nbsp; **IIT Palakkad CSE**
 
 [LinkedIn](https://www.linkedin.com/in/pranavadityaboda/) &nbsp;·&nbsp; [Email](mailto:pranavadityaboda@gmail.com) &nbsp;·&nbsp; [GitHub](https://github.com/PranavAdityaBoda)
 
@@ -24,8 +24,6 @@
 
 </div>
 
-**Also:** ClickHouse &nbsp;·&nbsp; LangChain &nbsp;·&nbsp; GitHub Copilot &nbsp;·&nbsp; Claude &nbsp;·&nbsp; RAG &nbsp;·&nbsp; NLP &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Deep Learning
-
 <br/>
 
 ## Experience
@@ -36,16 +34,6 @@
 
 ## Projects
 
-**[AI Code Documentation Agent](https://github.com/PranavAdityaBoda/RAG_CodeAssistant)** &nbsp;·&nbsp; Python, FastAPI, LangChain, Chroma, RAG, Streamlit
+<img src="assets/projects.svg" width="100%"/>
 
-Clones any GitHub repo, chunks it via tree-sitter AST parsing, and generates API references, READMEs and beginner guides through a RAG pipeline grounded in the real codebase. Cuts documentation turnaround from days to minutes. &nbsp;[Live demo &rarr;](https://codelensfrontend-production.up.railway.app/)
-
----
-
-**[Permutation Polynomials as Verifiable Delay Functions](https://github.com/PranavAdityaBoda-7/BTP)** &nbsp;·&nbsp; C++, Python, Intel IPP-Crypto, SageMath
-
-Applies finite field arithmetic and number theory to evaluate permutation polynomials as VDFs, a cryptographic primitive for trustless randomness. Demonstrates a 4x speed improvement over SageMath baselines using Intel IPP-Crypto.
-
-<br/>
-
-<sub>Built from `cv.md` and `config/profile.yml`. Nothing here is fabricated.</sub>
+[AI Code Documentation Agent (repo)](https://github.com/PranavAdityaBoda/RAG_CodeAssistant) &nbsp;·&nbsp; [Live Demo](https://codelensfrontend-production.up.railway.app/) &nbsp;&nbsp;|&nbsp;&nbsp; [Verifiable Delay Functions (repo)](https://github.com/PranavAdityaBoda-7/BTP)

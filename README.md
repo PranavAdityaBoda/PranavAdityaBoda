@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=CC5A32&height=150&section=header&text=PRANAV%20ADITYA%20BODA&fontSize=32&fontColor=FFFFFF&fontAlignY=50&fontfamily=monospace" width="100%"/>
+# Pranav Aditya Boda
 
 **Software Engineer @ Strand** &nbsp;|&nbsp; **Backend & Distributed Systems** &nbsp;|&nbsp; **IIT Palakkad CSE**
 
